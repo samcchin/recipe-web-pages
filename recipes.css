@@ -104,7 +104,7 @@ img {
 
 .recipes-list {
     display: grid;
-    grid-template-columns: 225px 225px 225px 225px 225px;
+    grid-template-columns: 225px 225px 225px 225px;
     grid-gap: 20px;
     justify-items:center;
 }
